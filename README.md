@@ -1,4 +1,4 @@
-<h2>Blog We Love Web</h2>
+<h2>Blog</h2>
 In deze blog schrijf ik kleine stukjes over interessante workshops, conferenties en recente internationale ontwikkelen op het gebied van frontend en design. 
 
 
