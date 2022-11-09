@@ -1,4 +1,5 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+<h2>Blog We Love Web</h2>
+In deze blog schrijf ik kleine stukjes over interessante workshops, conferenties en recente internationale ontwikkelen op het gebied van frontend en design. 
 
 
 
