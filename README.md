@@ -1,5 +1,5 @@
 <h2>Blog</h2>
-In deze blog schrijf ik kleine stukjes over interessante workshops, conferenties en recente internationale ontwikkelen op het gebied van frontend en design. 
+In deze blog schrijf ik kleine stukjes over interessante workshops, conferenties en recente internationale ontwikkelingen op het gebied van frontend en design. 
 
 
 
